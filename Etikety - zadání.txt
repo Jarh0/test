@@ -1,0 +1,38 @@
+Zadání úkolu
+Vaším úkolem je vytvoøit potisk na láhve s kyselinami.
+	a) potisky tisknìte na A4 tak, aby byly 3 potisky nad sebou a zabíraly celou plochu A4 (zvolte mezeru pro nùžky 0,5cm)
+	b) na potisku bude vždy název kyseliny, pod tímto názvem bude v závorkách její vzorec
+	c) na etiketu vždy vpravo nahoøe zobrazte piktogram: stáhnìte z 
+	https://publicdomainvectors.org/cs/volnych-vektoru/GHS-piktogram-pro-toxick%C3%A9-l%C3%A1tky/81711.html 
+
+
+Seznam kyselin
+---------------------------------------
+HIO4	kyselina jodistá
+H3IO5	kyselina trihydrogenjodistá
+H5IO6	kyselina pentahydrogenjodistá
+HOCN	kyselina kyanatá
+HNCO	kyselina isokyanatá
+HONC	kyselina fulminová
+H2NO2	kyselina nitroxylová
+H2SO2	kyselina sulfoxylová
+H2S2O3	kyselina thiosírová
+HSCN	kyselina thiokyanatá
+H3PO2S2	kyselina trihydrogendithiofosforeèná
+H2CS3	kyselina trithiouhlièitá
+H2S2O4	kyselina dithionièitá
+H2S2O6	kyselina dithionová
+H2SnO6	kyselina polythionová
+H2SO5	kyselina peroxosírová
+H2S2O8	kyselina peroxodisírová
+HSO3Cl	kyselina chlorosírová
+HPO2F2	kyselina difluorofosforeèná
+H2PO3Br	kyselina bromofosforeèná
+HSO3NH2	kyselina amidosírová
+HAsO2(NH2)2	kyselina diamidoarsenièná
+H2PO3NH2	kyselina amidofosforeèná
+H2Cr2O7	kyselina dichromová
+H2S2O5	kyselina disiøièitá
+H4P2O7	kyselina tetrahydrogendifosforeèná
+H5P3O10	kyselina pentahydrogentrifosforeèná
+H12Si6O18	kyselina dodekahydrogenhexakøemièitá
